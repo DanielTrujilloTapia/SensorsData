@@ -8,11 +8,6 @@
       </config>
     </shared>
     <layouts>
-      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/drawable/ic_home.xml">
-        <config>
-          <theme>@style/Theme.SensorsData</theme>
-        </config>
-      </layout>
       <layout url="file://$PROJECT_DIR$/mobile/src/main/res/drawable/ic_launcher_background.xml">
         <config>
           <theme>@style/Theme.SensorsData</theme>
@@ -23,17 +18,7 @@
           <theme>@style/Theme.SensorsData</theme>
         </config>
       </layout>
-      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/drawable/ic_notifications.xml">
-        <config>
-          <theme>@style/Theme.SensorsData</theme>
-        </config>
-      </layout>
       <layout url="file://$PROJECT_DIR$/mobile/src/main/res/layout/activity_main.xml">
-        <config>
-          <theme>@style/Theme.SensorsData</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/mobile/src/main/res/menu/bottom_nav_menu.xml">
         <config>
           <theme>@style/Theme.SensorsData</theme>
         </config>
@@ -61,7 +46,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=PhysicalDevice, isTemplate=false, identifier=serial=R9YR303H7XJ)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\javie\.android\avd\Medium_Phone.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -124,7 +109,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "recuperar-cambios-temporales",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "memory.settings"
   }

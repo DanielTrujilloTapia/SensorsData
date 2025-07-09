@@ -1,1 +1,20 @@
-/build
+# Gradle build & cache files
+.gradle/
+build/
+
+# Android Studio / IntelliJ IDEA project files
+.idea/
+*.iml
+local.properties
+
+# Archivos específicos que suelen cambiar o generar conflictos
+.gradle/**/checksums/
+.gradle/**/executionHistory/
+.gradle/**/fileHashes/
+.gradle/**/buildOutputCleanup/
+.gradle/config.properties
+.gradle/file-system.probe
+
+# Otros archivos generados
+*.lock
+*.bin
